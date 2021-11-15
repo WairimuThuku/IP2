@@ -18,7 +18,7 @@ Here is a live link to the project https://wairimuthuku.github.io/IP2/
 
 1. Html - for structuring the webpage
 
-2. CSS
+2. CSS - for
 
 3. Js
 
