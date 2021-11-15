@@ -20,7 +20,7 @@ Here is a live link to the project https://wairimuthuku.github.io/IP2/
 
 2. CSS > for styling the webpage
 
-3. Js >
+3. Js > responsible for the back-end coding
 
 # Author <span style='font-size:30px;'>&#128524;</span>
 
