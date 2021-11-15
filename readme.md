@@ -16,7 +16,7 @@ Here is a live link to the project https://wairimuthuku.github.io/IP2/
 
 # Technology Used <span style='font-size:30px;'>&#128187;</span>
 
-1. Html - for structuring the webpage
+1. Html > for structuring the webpage
 
 2. CSS - for styling the webpage
 
