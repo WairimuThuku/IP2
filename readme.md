@@ -12,7 +12,7 @@ Akan names come from a traditional naming system for people from countries such 
 
 # Demo
 
-Here is a live link to the project
+Here is a live link to the project https://wairimuthuku.github.io/IP2/
 
 # Technology Used <span style='font-size:30px;'>&#128187;</span>
 
